@@ -10,7 +10,7 @@ The goal of this project is to analyze an ecommerce platform’s operations and 
 - How is overall revenue and order volume performing over time?
 - Which product categories and regions generate the highest revenue?
 - How do customers behave across locations?
-- How efficient is the delivery process?
+- How efficient is the delivery process? 
 - How do payment methods and installments impact revenue?
 - How does delivery performance affect customer reviews?
 
