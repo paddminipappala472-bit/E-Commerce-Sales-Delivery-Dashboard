@@ -2,40 +2,40 @@
 
 This project analyzes e-commerce sales, customer behavior, and delivery performance to generate actionable insights and support data-driven decision-making.
 
-#🔹 Problem Statement
+### Problem Statement
 
 E-commerce businesses often face challenges such as delivery delays, declining customer satisfaction, and inconsistent sales performance. This project aims to identify key factors affecting delivery efficiency and customer ratings.
 
-🔹 Dataset
+### Dataset
 
 Dataset used: Olist E-commerce Dataset (Kaggle)
 Note: Due to file size limitations, the dataset is not uploaded. Processed data and analysis results are included.
 
-🔹 Tools Used
+### Tools Used
 SQL (PostgreSQL)
 Excel
 Power BI
-🔹 Workflow
+### Workflow
 Collected dataset from Kaggle (Olist dataset)
 Performed data cleaning and transformation using SQL
 Exported query results to Excel
 Built interactive dashboard using Power BI
-🔹 Key Analysis
+### Key Analysis
 Sales and revenue analysis
 Customer behavior analysis
 Delivery performance evaluation
 Customer rating analysis
-🔹 Key Insights
+### Key Insights
 Identified a 40% drop in customer ratings (4.3 to 2.6) due to delivery delays
 Achieved 97% delivery rate with an average delivery time of 12 days
 Tracked total revenue of ₹15.8M
 Identified key factors impacting customer satisfaction and delivery performance
-🔹 Dashboard
+### Dashboard
 
 (Add your screenshots below 👇)
 
 ![Dashboard](images/your-image-name.png)
-🔹 Business Impact
+### Business Impact
 Improved understanding of delivery performance
 Identified areas to enhance customer satisfaction
 Enabled data-driven decision-making# E-Commerce-Sales-Delivery-Dashboard
