@@ -1,9 +1,8 @@
-📊 E-Commerce Sales & Delivery Analytics Dashboard
-🔹 Project Overview
+## 📊 E-Commerce Sales & Delivery Analytics Dashboard
 
 This project analyzes e-commerce sales, customer behavior, and delivery performance to generate actionable insights and support data-driven decision-making.
 
-🔹 Problem Statement
+#🔹 Problem Statement
 
 E-commerce businesses often face challenges such as delivery delays, declining customer satisfaction, and inconsistent sales performance. This project aims to identify key factors affecting delivery efficiency and customer ratings.
 
