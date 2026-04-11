@@ -33,7 +33,7 @@ E-commerce businesses often face challenges such as delivery delays, declining c
 * Analyzed delivery performance and observed a 97% delivery completion rate with an average delivery time of 12 days, enabling evaluation of operational efficiency.<br>
 * Identified a significant drop in customer ratings (4.3 to 2.6) associated with increased delivery times, highlighting delivery delays as a key driver of customer dissatisfaction.<br>
 * Evaluated total revenue of ₹15.8M across transactions, providing visibility into overall sales performance and business scale.<br>
-Identified patterns between delivery timelines and customer feedback, indicating that longer delivery durations negatively impact customer experience.
+* Identified patterns between delivery timelines and customer feedback, indicating that longer delivery durations negatively impact customer experience.
 
 ### Dashboard
   <img width="1258" height="804" alt="Excecutive_Overview" src="https://github.com/user-attachments/assets/b652be63-bb58-4d41-8050-5cb00cffaeb0" />
