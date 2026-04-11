@@ -27,10 +27,10 @@ Exported query results to Excel
 Built interactive dashboard using Power BI
 
 ### Key Analysis
-Sales and revenue analysis <br>
-Customer behavior analysis <br>
-Delivery performance evaluation <br>
-Customer rating analysis
+* Sales and revenue analysis <br>
+* Customer behavior analysis <br>
+* Delivery performance evaluation <br>
+* Customer rating analysis
 
 ### Key Insights & Business Impact
 Performed data cleaning and transformation on raw datasets using SQL, resolving inconsistencies and preparing structured, analysis-ready data.<br>
