@@ -47,8 +47,8 @@ Identified key factors impacting customer satisfaction and delivery performance
   <img width="1149" height="805" alt="Customer_Review_Analysis" src="https://github.com/user-attachments/assets/786ef930-a316-4c6d-846d-166f1913c1d8" />
   
 ### Business Impact
--Improved understanding of delivery performance.
--Identified areas to enhance customer satisfaction.
+-Improved understanding of delivery performance<br>
+-Identified areas to enhance customer satisfaction.<br>
 -Enabled data-driven decision-making
 
 ## Power BI Dashboard File
