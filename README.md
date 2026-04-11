@@ -1,30 +1,26 @@
 ## 📊 E-Commerce Sales & Delivery Analytics Dashboard
-
 This project analyzes e-commerce sales, customer behavior, and delivery performance to generate actionable insights and support data-driven decision-making.
 
 ## 🔗 View Dashboard & Analysis (PPT)
 ## https://app.presentations.ai/view/p8PVCYyPzC
 
 ### Problem Statement
-
 E-commerce businesses often face challenges such as delivery delays, declining customer satisfaction, and inconsistent sales performance. This project aims to identify key factors affecting delivery efficiency and customer ratings.
 
 ### Dataset
-
-Dataset used: Olist E-commerce Dataset (Kaggle)
-Note: Due to file size limitations, the dataset is not uploaded. Processed data and analysis results are included.
-
+* Dataset used: Olist E-commerce Dataset (Kaggle)
+* Note: Due to file size limitations, the dataset is not uploaded. Processed data and analysis results are included.
 
 ### Tools Used
-SQL (PostgreSQL)
-Excel
-Power BI
+* SQL (PostgreSQL)
+* Excel
+* Power BI
 
 ### Workflow
-Collected dataset from Kaggle (Olist dataset)
-Performed data cleaning and transformation using SQL
-Exported query results to Excel
-Built interactive dashboard using Power BI
+* Collected dataset from Kaggle (Olist dataset)
+* Performed data cleaning and transformation using SQL
+* Exported query results to Excel
+* Built interactive dashboard using Power BI
 
 ### Key Analysis
 * Sales and revenue analysis <br>
@@ -33,11 +29,12 @@ Built interactive dashboard using Power BI
 * Customer rating analysis
 
 ### Key Insights & Business Impact
-Performed data cleaning and transformation on raw datasets using SQL, resolving inconsistencies and preparing structured, analysis-ready data.<br>
-Analyzed delivery performance and observed a 97% delivery completion rate with an average delivery time of 12 days, enabling evaluation of operational efficiency.<br>
-Identified a significant drop in customer ratings (4.3 to 2.6) associated with increased delivery times, highlighting delivery delays as a key driver of customer dissatisfaction.<br>
-Evaluated total revenue of ₹15.8M across transactions, providing visibility into overall sales performance and business scale.<br>
+* Performed data cleaning and transformation on raw datasets using SQL, resolving inconsistencies and preparing structured, analysis-ready data.<br>
+* Analyzed delivery performance and observed a 97% delivery completion rate with an average delivery time of 12 days, enabling evaluation of operational efficiency.<br>
+* Identified a significant drop in customer ratings (4.3 to 2.6) associated with increased delivery times, highlighting delivery delays as a key driver of customer dissatisfaction.<br>
+* Evaluated total revenue of ₹15.8M across transactions, providing visibility into overall sales performance and business scale.<br>
 Identified patterns between delivery timelines and customer feedback, indicating that longer delivery durations negatively impact customer experience.
+
 ### Dashboard
   <img width="1258" height="804" alt="Excecutive_Overview" src="https://github.com/user-attachments/assets/b652be63-bb58-4d41-8050-5cb00cffaeb0" />
   <img width="1198" height="796" alt="Sales_Products" src="https://github.com/user-attachments/assets/3cb81b07-22fc-408f-8eb5-e5346fde2baf" />
