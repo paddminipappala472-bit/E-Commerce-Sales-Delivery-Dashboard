@@ -23,17 +23,30 @@ E-commerce businesses often face challenges such as delivery delays, declining c
 * Built interactive dashboard using Power BI
 
 ### Key Analysis
-* Sales and revenue analysis <br>
-* Customer behavior analysis <br>
-* Delivery performance evaluation <br>
+* Sales and revenue analysis 
+* Customer behavior analysis 
+* Delivery performance evaluation 
 * Customer rating analysis
 
 ### Key Insights & Business Impact
-* Performed data cleaning and transformation on raw datasets using SQL, resolving inconsistencies and preparing structured, analysis-ready data.<br>
-* Analyzed delivery performance and observed a 97% delivery completion rate with an average delivery time of 12 days, enabling evaluation of operational efficiency.<br>
-* Identified a significant drop in customer ratings (4.3 to 2.6) associated with increased delivery times, highlighting delivery delays as a key driver of customer dissatisfaction.<br>
-* Evaluated total revenue of ₹15.8M across transactions, providing visibility into overall sales performance and business scale.<br>
-* Identified patterns between delivery timelines and customer feedback, indicating that longer delivery durations negatively impact customer experience.
+* Improved delivery performance by analyzing 99K total orders, achieving a 97.02% delivery success rate with 96K successfully delivered orders, which shows strong operational efficiency and reduced cancellation risk for the business.
+* Identified that São Paulo (SP) is the highest revenue-generating region with 42K customers, 42K orders, and ₹5.9M revenue, contributing nearly 37% of total revenue, helping the business prioritize marketing, seller partnerships, and logistics expansion in high-value regions.
+* Found that late deliveries (8.11%) significantly impacted customer satisfaction, where the average review score dropped from 4.3 for on-time deliveries to 2.6 for late deliveries, proving that improving delivery timelines can directly increase customer retention and repeat purchases.
+* Analyzed customer feedback and observed an average review score of 4/5, with 57K 5-star reviews and 14K low-rated reviews (1-star + 2-star), helping identify service gaps and improvement areas in delivery, product quality, and customer support.
+* Discovered that top-performing product categories such as Health & Beauty (₹1.44M), Watches & Gifts (₹1.31M), and Bed Bath Table (₹1.24M) generated the highest revenue, helping the business focus inventory planning and promotional strategies on profitable categories.
+* Identified that Credit Card payments contributed 73.92% of total orders and generated ₹12.54M revenue, while 51.63% of customers preferred installment payments, helping the business improve EMI offers, payment strategies, and conversion rates for higher-value purchases.
+
+### Conclusion
+* This project successfully transformed raw Olist e-commerce data into a complete business intelligence dashboard using Excel, SQL, Power Query, and Power BI.
+* The analysis showed that delivery speed, regional performance, customer satisfaction, payment behavior, and product category profitability are the major drivers of business growth.
+* The dashboard helps stakeholders make faster, data-driven decisions by improving delivery efficiency, strengthening customer satisfaction, optimizing payment strategies, and increasing revenue opportunities.
+
+### Future Improvements
+* Reduce the late delivery rate from 8.11% to below 5% to improve customer satisfaction, reduce negative reviews, and increase repeat purchases.
+* Investigate the root causes behind 14K low-rated reviews by focusing on delayed deliveries, damaged products, and poor customer service to improve brand trust and customer retention.
+* Expand business operations in high-performing states like SP, RJ, and MG through stronger seller partnerships, faster logistics, and targeted regional campaigns to maximize revenue growth.
+* Improve performance in low-performing states by using localized promotions, better delivery support, and customer acquisition strategies to balance overall regional sales.
+* Strengthen credit card and EMI promotional strategies since 73.92% of customers prefer credit card payments, which can increase average order value and improve sales conversion rates.
 
 ### Dashboard
   <img width="1258" height="804" alt="Excecutive_Overview" src="https://github.com/user-attachments/assets/b652be63-bb58-4d41-8050-5cb00cffaeb0" />
