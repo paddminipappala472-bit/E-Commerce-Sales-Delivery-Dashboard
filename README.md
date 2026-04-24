@@ -4,6 +4,14 @@ This project analyzes e-commerce sales, customer behavior, and delivery performa
 ## 🔗 View Dashboard & Analysis (PPT)
 ## https://app.presentations.ai/view/p8PVCYyPzC
 
+### Dashboard
+  <img width="1258" height="804" alt="Excecutive_Overview" src="https://github.com/user-attachments/assets/b652be63-bb58-4d41-8050-5cb00cffaeb0" />
+  <img width="1198" height="796" alt="Sales_Products" src="https://github.com/user-attachments/assets/3cb81b07-22fc-408f-8eb5-e5346fde2baf" />
+  <img width="1444" height="809" alt="Customer_Geography" src="https://github.com/user-attachments/assets/f159d6fd-d330-4866-92bf-794d7805f21e" />
+  <img width="1208" height="807" alt="Delivery_Payments" src="https://github.com/user-attachments/assets/6df51fe5-d2a5-4837-828a-ade2ec7aa5fd" />
+  <img width="1042" height="804" alt="Payment_Analysis" src="https://github.com/user-attachments/assets/082f15a8-8cb4-4ba7-b587-1006467370be" />
+  <img width="1149" height="805" alt="Customer_Review_Analysis" src="https://github.com/user-attachments/assets/786ef930-a316-4c6d-846d-166f1913c1d8" />
+
 ### Problem Statement
 E-commerce businesses often face challenges such as delivery delays, declining customer satisfaction, and inconsistent sales performance. This project aims to identify key factors affecting delivery efficiency and customer ratings.
 
@@ -47,14 +55,6 @@ E-commerce businesses often face challenges such as delivery delays, declining c
 * Expand business operations in high-performing states like SP, RJ, and MG through stronger seller partnerships, faster logistics, and targeted regional campaigns to maximize revenue growth.
 * Improve performance in low-performing states by using localized promotions, better delivery support, and customer acquisition strategies to balance overall regional sales.
 * Strengthen credit card and EMI promotional strategies since 73.92% of customers prefer credit card payments, which can increase average order value and improve sales conversion rates.
-
-### Dashboard
-  <img width="1258" height="804" alt="Excecutive_Overview" src="https://github.com/user-attachments/assets/b652be63-bb58-4d41-8050-5cb00cffaeb0" />
-  <img width="1198" height="796" alt="Sales_Products" src="https://github.com/user-attachments/assets/3cb81b07-22fc-408f-8eb5-e5346fde2baf" />
-  <img width="1444" height="809" alt="Customer_Geography" src="https://github.com/user-attachments/assets/f159d6fd-d330-4866-92bf-794d7805f21e" />
-  <img width="1208" height="807" alt="Delivery_Payments" src="https://github.com/user-attachments/assets/6df51fe5-d2a5-4837-828a-ade2ec7aa5fd" />
-  <img width="1042" height="804" alt="Payment_Analysis" src="https://github.com/user-attachments/assets/082f15a8-8cb4-4ba7-b587-1006467370be" />
-  <img width="1149" height="805" alt="Customer_Review_Analysis" src="https://github.com/user-attachments/assets/786ef930-a316-4c6d-846d-166f1913c1d8" />
 
 ## Power BI Dashboard File
 The Power BI dashboard file (.pbix) is available for download using the link below:
